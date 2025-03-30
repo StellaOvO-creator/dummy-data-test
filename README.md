@@ -48,8 +48,8 @@ Encoded labels: ['walking', 'sitting', 'standing']
 
 | File                             | Description                          |
 |----------------------------------|--------------------------------------|
-| `dummy_sensor_pipeline_en.py`    | Main script (with English comments)  |
-| `dummy_sensor_pipeline_en.ipynb` | Jupyter Notebook version             |
+| `dummy_sensor_pipeline.py`    | Main script (with English comments)  |
+| `dummy_sensor_pipeline.ipynb` | Jupyter Notebook version             |
 | `README.md`                      | This file                            |
 
 ## 📌 Author
